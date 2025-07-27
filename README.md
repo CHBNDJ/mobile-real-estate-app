@@ -4,19 +4,25 @@ A sleek and intuitive mobile real estate app built with React Native, Expo, Type
 
 ## 🎥 App Preview
 
-This demo showcases the app's responsive user interface with modern animations and seamless navigation.
+<img src='./assets/gif/preview.gif' alt='App Preview'>
+
+> This demo showcases the app's responsive user interface with modern animations and seamless navigation.
+
+---
 
 ## 🌐 Try the App
 
-👉 Project page on Expo
+👉 [Project page on Expo](https://expo.dev/accounts/chbndj/projects/real-estate/updates/1bc969a7-de45-4350-b6a3-46da68fc8311)
 
-📱 Or scan the QR code below with Expo Go to test it instantly:
+📱 Or scan the QR code below with **Expo Go** to test it instantly:
 
-QR Code
+![QR Code](./assets/images/qrcode.png)
 
-Download Expo Go on your phone
-Open it and scan the code
-Enjoy the app!
+> 1. Download **Expo Go** on your phone
+> 2. Open it and scan the code
+> 3. Enjoy the app!
+
+---
 
 ## 💻 For Developers
 
