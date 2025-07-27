@@ -4,7 +4,7 @@ A sleek and intuitive mobile real estate app built with React Native, Expo, Type
 
 ## 🎥 App Preview
 
-<img src='./assets/gif/preview.gif' alt='App Preview'>
+<img src='./assets/gif/preview.gif' alt='App Preview' width="300" height="800">
 
 > This demo showcases the app's responsive user interface with modern animations and seamless navigation.
 
